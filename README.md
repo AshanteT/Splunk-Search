@@ -15,3 +15,5 @@ Utilizing field values to refine searches and gain deeper insights into data.
 - Splunk
 
 ## Steps 
+Click on the link to view the recording of my lab:
+https://youtu.be/3G0KQ3MBtHs
